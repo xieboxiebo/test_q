@@ -6,5 +6,4 @@ print("manager is good")
 
 print("money is small")
 
-
-print("133445")
+print("you very youzhong")`
