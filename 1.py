@@ -6,3 +6,4 @@ print("manager is good")
 
 print("money is small")
 
+print("you very youzhong")`
